@@ -1,0 +1,10 @@
+{
+    "orgName": "shane.mclaughlin Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled", "PathAssistantsEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
+    },
+    "hasSampleData": true
+
+}
