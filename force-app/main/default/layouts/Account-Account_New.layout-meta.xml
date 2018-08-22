@@ -261,11 +261,6 @@
             <actionType>StandardButton</actionType>
             <sortOrder>11</sortOrder>
         </platformActionListItems>
-        <platformActionListItems>
-            <actionName>LCC_Googlelex</actionName>
-            <actionType>CustomButton</actionType>
-            <sortOrder>16</sortOrder>
-        </platformActionListItems>
     </platformActionList>
     <quickActionList>
         <quickActionListItems>
