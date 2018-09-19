@@ -1,6 +1,7 @@
 {
-    "orgName": "shane.mclaughlin Company",
+    "orgName": "workshops",
     "edition": "Developer",
+    "description": "migrating javascript buttons",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled", "PathAssistantsEnabled"],
         "disabled": ["S1EncryptedStoragePref2"]
