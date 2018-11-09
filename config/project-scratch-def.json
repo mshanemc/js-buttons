@@ -2,10 +2,14 @@
     "orgName": "workshops",
     "edition": "Developer",
     "description": "migrating javascript buttons",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "PathAssistantsEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
+    "settings": {
+        "orgPreferenceSettings": {
+            "chatterEnabled": true,
+            "pathAssistantsEnabled": true,
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        }
     },
-    "hasSampleData": true
+    "hasSampleData": "true"
 
 }
