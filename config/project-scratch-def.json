@@ -1,5 +1,6 @@
 {
     "orgName": "workshops",
+    "adminEmail": "platformpmmdemos@mailinator.com",
     "edition": "Developer",
     "description": "migrating javascript buttons",
     "settings": {
